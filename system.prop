@@ -84,6 +84,8 @@ ro.vendor.qti.core_ctl_max_cpu=4
 # OctaviOS Official Props
 ro.octavi.display.pid=1572201
 ro.octavi.maintainer=goshawk22
+ro.octavi.hw.cam=48Mp,8Mp,2Mp,2Mp:16Mp 
+ro.octavi.hw.cpu=Snapdragon 712 (10nm)
 
 # One handed mode
 ro.support_one_handed_mode=true
